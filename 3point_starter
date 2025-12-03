@@ -1,0 +1,33 @@
+3-Point Starter – Summary Points
+
+1. Necessity of Starter
+
+At starting, no back emf → motor draws very high armature current (Ia = V/Ra).
+
+This can damage armature, commutator, and cause large voltage drop.
+
+To limit starting current, a variable resistance (starting resistance) is inserted in series with armature.
+
+
+
+2. Construction (3 points: L, F, A)
+
+L (Line): Connected to supply positive.
+
+F (Field): Connected to shunt field winding.
+
+A (Armature): Connected to armature circuit in series with starting resistance.
+
+Contains Starting Resistance, No-Volt Release Coil, Overload Release Coil, and a spring-loaded Starting Handle.
+
+
+
+3. Operation
+
+Handle moved from OFF → ON position, progressively cutting out starting resistance in steps.
+
+At ON, handle is held magnetically by No-Volt Release Coil (energized by shunt field current).
+
+If supply fails or field circuit opens → coil de-energises, spring pulls handle to OFF (motor disconnects).
+
+If motor overloads → overload coil attracts armature, short-circuits no-volt coil → handle released to OFF, disconnecting motor.
